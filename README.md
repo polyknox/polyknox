@@ -1,5 +1,5 @@
 # Hey. Im SolarSkripts or PolyKnox
-> I'm A developer from England. My 12 AM for you is <t:1713740400:t> 
+> I'm A developer from England. My timezone is GMT / BST. 
 
 ![Preview](https://i.imgur.com/RMvdOOY.png)
 
