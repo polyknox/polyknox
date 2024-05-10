@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Solar - @SolarSkripts
-- 👀 I’m interested in coding and shit like that
-- 🌱 I’m currently learning minecraft skript and python
-- 💞️ I’m looking to join or create a development group such as znci
-- 📫 How to reach me discord or my website both are - solarskripts.net
-<!---
-SolarSkripts/SolarSkripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey. Im SolarSkripts or PolyKnox
+> I'm A developer from England. My 12 AM for you is <t:1713740400:t> 
+
+![Preview](https://i.imgur.com/RMvdOOY.png)
+
+## Im currently...
+- Founder of PixelXI Development
+- Learning JS, HTML, CSS, Python and more.
+
